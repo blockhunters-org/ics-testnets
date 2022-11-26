@@ -1,0 +1,13 @@
+{
+	"title": "Create the hunterverse chain",
+	"description": "This is the proposal to create the consumer chain “hunterverse-1”. Visit https://github.com/blockhunters-org/ics-testnets/tree/main/game-of-chains-2022/hunterverse for details on this proposal’s data and how to join the chain.",
+	"chain_id": "hunterverse-1",
+	"initial_height": {
+		"revision_height": 1,
+		"revision_number": 1
+	},
+	"genesis_hash": "969ab94d0fa4020700758a9e7d5e0eae9dfa907ffcb437df41eb6eb76ae5e03e",
+	"binary_hash": "596616073a8e2c803a52172269e0ef82fc6f1fc9922443b74566fe3a180f11a0",
+	"spawn_time": "2022-11-30T16:00:00.000000Z",
+	"deposit": "1uprov"
+}
