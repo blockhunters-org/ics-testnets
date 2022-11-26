@@ -43,7 +43,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
   ```
   ```
   # run inside docker container.
-  git clone https://github.com/blockhunters-org.git
+  git clone https://github.com/blockhunters-org/hunterverse.git
   cd hunterverse
   git fetch
   git checkout v1.0.0
