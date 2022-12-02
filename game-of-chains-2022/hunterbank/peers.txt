@@ -1,0 +1,5 @@
+#Peers for the hunterbank consumer chain
+
+#BlockHunters 🎯
+16e2d7c6cd29b289e278a7c2220e0c4fbbc9d04a@65.21.237.83:16656
+4c7296bd9508ffbd7aebfc9c71e60362685d6779@198.244.167.63:26656

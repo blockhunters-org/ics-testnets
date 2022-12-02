@@ -1,0 +1,13 @@
+{
+	"title": "Create the hunterbank chain",
+	"description": "This is the proposal to create the consumer chain “hunterbank-1”. Visit https://github.com/blockhunters-org/ics-testnets/tree/main/game-of-chains-2022/hunterbank for details on this proposal’s data and how to join the chain.",
+	"chain_id": "hunterbank-1",
+	"initial_height": {
+		"revision_height": 1,
+		"revision_number": 1
+	},
+	"genesis_hash": "8639f693c9b7bb3428d7e6e697fc8eac105de36aadedd58901199298abba66f2",
+	"binary_hash": "1f383407ce33f171e831ba8d24dd7c0d368e7c0d90c514405e2c061be8e36c6f",
+	"spawn_time": "2022-12-06T16:00:00.000000Z",
+	"deposit": "1uprov"
+}
