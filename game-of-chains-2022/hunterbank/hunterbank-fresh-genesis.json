@@ -166,6 +166,6 @@
     "validator": { "pub_key_types": ["ed25519"] },
     "version": {}
   },
-  "genesis_time": "2022-12-06T16:00:00.000000000Z",
+  "genesis_time": "2022-12-09T20:00:00.000000000Z",
   "initial_height": "1"
 }

@@ -9,13 +9,13 @@ Contents
 ## Status
 
 * Timeline
-  * 2022-12-06: Suggested chain start time: `2022-12-06T19:00:00.000000000Z`
-  * 2022-12-06: Spawn time: `2022-12-06T16:00:00.000000000Z`
-  * 2022-12-05: Proposal 53 voting period ends
-  * 2022-12-02: Proposal 53 goes into voting period
+  * 2022-12-06: Suggested chain start time: `2022-12-09T21:00:00.000000000Z`
+  * 2022-12-06: Spawn time: `2022-12-09T20:00:00.000000000Z`
+  * 2022-12-05: Proposal 85 voting period ends
+  * 2022-12-02: Proposal 85 goes into voting period
   * 2022-12-02: Genesis file without CCV state is generated
 
-`hunterbank` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
+`hunterbank-1` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
 
 The following items will be included in the proposal:
 * Genesis file hash
